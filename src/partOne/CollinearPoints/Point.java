@@ -1,4 +1,4 @@
-package CollinearPoints; /******************************************************************************
+package partOne.CollinearPoints; /******************************************************************************
  *  Compilation:  javac Point.java
  *  Execution:    java Point
  *  Dependencies: none

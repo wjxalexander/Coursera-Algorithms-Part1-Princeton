@@ -1,4 +1,4 @@
-package DequesandRandomizedQueues;
+package partOne.DequesandRandomizedQueues;
 
 /* *****************************************************************************
  *  Name: Jingxin.wang

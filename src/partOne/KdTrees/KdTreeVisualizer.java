@@ -1,4 +1,4 @@
-package KdTrees; /******************************************************************************
+package partOne.KdTrees; /******************************************************************************
  *  Compilation:  javac KdTreeVisualizer.java
  *  Execution:    java KdTreeVisualizer
  *  Dependencies: KdTree.java

@@ -1,4 +1,4 @@
-package KdTrees; /******************************************************************************
+package partOne.KdTrees; /******************************************************************************
  *  Compilation:  javac KdTreeGenerator.java
  *  Execution:    java KdTreeGenerator n
  *  Dependencies: 

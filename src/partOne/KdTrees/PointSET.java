@@ -1,4 +1,4 @@
-package KdTrees;
+package partOne.KdTrees;
 /* *****************************************************************************
  *  Name:jingxin.wang
  *  Date:

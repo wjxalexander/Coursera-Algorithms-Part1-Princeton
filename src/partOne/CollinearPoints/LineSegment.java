@@ -1,4 +1,4 @@
-package CollinearPoints;
+package partOne.CollinearPoints;
 
 /*************************************************************************
  *  Compilation:  javac LineSegment.java
